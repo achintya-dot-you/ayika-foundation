@@ -1,0 +1,12 @@
+.navbar-brand{
+    margin-left: 25px;
+}
+.nav-item{
+    font-family: 'Lato', sans-serif;
+    font-size: 1.5rem;
+    
+    margin: 0 15px;
+}
+.nav-link{
+    color: #fff;
+}
