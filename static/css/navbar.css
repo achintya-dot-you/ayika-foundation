@@ -1,3 +1,4 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@700&display=swap');
 .navbar-brand{
     margin-left: 25px;
 }
@@ -7,6 +8,7 @@
     
     margin: 0 15px;
 }
-.nav-link{
+.nav-link:hover{
     color: #fff;
+    text-decoration: underline;
 }
