@@ -1,0 +1,28 @@
+.header{
+    min-height: 100vh;
+    width:100%;
+    background-color: rgb(110, 129, 114);
+}
+
+.text-box{
+    width:auto;
+    color:#f4e4e4;
+    position: absolute;
+    top:50%;
+    left:50%;
+    transform: translate(-50%, -50%);
+    text-align: center;
+}
+
+.text-box h1{
+    font-size: 5rem;
+
+}
+.text-box p{
+    margin: 10px 0 40px;
+    font-size: 1.5rem;
+}
+
+.typed{
+    color: #F4CFB7;
+}
